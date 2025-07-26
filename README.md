@@ -28,7 +28,9 @@ Estou focado em criar soluções bem estruturadas, seguras e com boas práticas 
 <br/>
 <br/>
 
----
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="tiago-daniel01" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pt.linkedin.com/in/tiago-daniel01?trk=profile-badge">Tiago Conceição</a></div>
+              
+
 
 ### 📊 Estatísticas GitHub
 
