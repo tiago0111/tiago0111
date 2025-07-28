@@ -3,7 +3,7 @@
 
 **`Desenvolvedor Full-Stack Júnior`**
 
-Sou profissional da área da informática, tenho projetos completos com tecnologias modernas como React, Node.js, Docker, GitHub Actions e MongoDB.  
+Sou um profissional da área da informática, tenho projetos completos com tecnologias como React, Node.js, Docker, GitHub Actions e MongoDB.  
 Estou focado em criar soluções bem estruturadas, seguras e com boas práticas de desenvolvimento.
 
 ---
