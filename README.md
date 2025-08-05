@@ -24,7 +24,8 @@ Estou focado em criar soluções bem estruturadas, seguras e com boas práticas 
 <img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
 <img align="left" alt="Jest" title="Jest" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>
 <img align="left" alt="Postman" title="Postman" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/>
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg)](https://www.linkedin.com/in/tiago-daniel01/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0000FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-daniel01/)
+
 <br/>
 <br/>
 
